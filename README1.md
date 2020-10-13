@@ -248,3 +248,5 @@ npx babel ./src/index.js --out-file ./dist/compiled.js
 
 打开dist目录的compiled.js看一看 "XXX"是不是改为"Candice"咯！
 
+最后的最后，babel相关代码见[babel-project](https://github.com/Candice0718/babel-project)。
+
