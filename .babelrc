@@ -1,0 +1,22 @@
+// {
+//     "presets": [
+//         ["@babel/preset-env", {
+//             "corejs": 3,
+//             "useBuiltIns": "usage"
+//         }]
+//     ],
+//     "plugins": [
+//         "@babel/transform-runtime"
+//     ]
+// }
+{
+    // "presets": [
+    //     "./presets/index.js"
+    // ],
+    "plugins": [
+        ["./plugins/index.js", {
+            "name": "Candice"
+        }]
+        
+    ]
+}

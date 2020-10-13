@@ -1,2 +1,0 @@
-# babel-project
-learn babel
